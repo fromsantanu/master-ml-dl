@@ -116,7 +116,7 @@
 - **Lesson 80:** [NLP Project — Build a Text Classifier Using Transformers](#)
 
 
-# 🎉 **Your full Master Course now includes :**
+# 🎉 **This introductory course now includes :**
 
 ✔️ Machine Learning (classical)
 ✔️ Deep Learning
