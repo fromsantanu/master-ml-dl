@@ -88,5 +88,5 @@ Every lesson will follow a simple pattern:
 
 By the end of Part 2, you will be able to confidently pick any supervised learning algorithm and know **what it does**, **why it works**, and **where to use it**.
 
-Whenever you're ready, you can ask for **Lesson 16: Linear Regression**.
+
 
