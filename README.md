@@ -51,7 +51,7 @@
 - **Lesson 34:** [Hierarchical Clustering](#)
 - **Lesson 35:** [DBSCAN](#)
 - **Lesson 36:** [PCA (Principal Component Analysis)](#)
-- **Lesson 37:** [t-SNE (simple explanation)]
+- **Lesson 37:** [t-SNE (simple explanation)](#)
 - **Lesson 38:** [UMAP](#)
 - **Lesson 39:** [Anomaly Detection](#)
 - **Lesson 40:** [Association Rule Mining (market basket)](#)
