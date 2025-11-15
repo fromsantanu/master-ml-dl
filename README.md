@@ -1,6 +1,6 @@
 
 
-# 🎓 **MASTER COURSE: Machine Learning + Deep Learning**
+# 🎓 **Introductory Course: Machine Learning + Deep Learning**
 (For Beginner → Intermediate → Advanced → Mastery)
 
 ---
