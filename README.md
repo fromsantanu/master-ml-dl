@@ -26,21 +26,21 @@
 ---
 
 ## **PART 2 — SUPERVISED LEARNING (LESSONS 16–30)**
-- **Lesson 16:** [Linear Regression](#)
-- **Lesson 17:** [Multiple Linear Regression](#)
-- **Lesson 18:** [Logistic Regression (binary classification)](#)
-- **Lesson 19:** [Decision Trees](#)
-- **Lesson 20:** [Random Forest](#)
-- **Lesson 21:** [Gradient Boosting Machines (GBM)](#)
-- **Lesson 22:** [XGBoost (easy intro)](#)
-- **Lesson 23:** [Support Vector Machines (SVM)](#)
-- **Lesson 24:** [K-Nearest Neighbors (KNN)](#)
-- **Lesson 25:** [Naive Bayes](#)
-- **Lesson 26:** [Model Evaluation — Accuracy, Precision, Recall, F1](#)
-- **Lesson 27:** [Regression Metrics — MAE, MSE, RMSE](#)
-- **Lesson 28:** [Confusion Matrix](#)
-- **Lesson 29:** [ROC-AUC & PR curves](#)
-- **Lesson 30:** [Choosing the right algorithm](#)
+- **Lesson 16:** [Linear Regression](https://github.com/fromsantanu/master-ml-dl/blob/main/Part2/p16.md)
+- **Lesson 17:** [Multiple Linear Regression](https://github.com/fromsantanu/master-ml-dl/blob/main/Part2/p17.md)
+- **Lesson 18:** [Logistic Regression (binary classification)](https://github.com/fromsantanu/master-ml-dl/blob/main/Part2/p18.md)
+- **Lesson 19:** [Decision Trees](https://github.com/fromsantanu/master-ml-dl/blob/main/Part2/p19.md)
+- **Lesson 20:** [Random Forest](https://github.com/fromsantanu/master-ml-dl/blob/main/Part2/p20.md)
+- **Lesson 21:** [Gradient Boosting Machines (GBM)](https://github.com/fromsantanu/master-ml-dl/blob/main/Part2/p21.md)
+- **Lesson 22:** [XGBoost (easy intro)](https://github.com/fromsantanu/master-ml-dl/blob/main/Part2/p22.md)
+- **Lesson 23:** [Support Vector Machines (SVM)](https://github.com/fromsantanu/master-ml-dl/blob/main/Part2/p23.md)
+- **Lesson 24:** [K-Nearest Neighbors (KNN)](https://github.com/fromsantanu/master-ml-dl/blob/main/Part2/p24.md)
+- **Lesson 25:** [Naive Bayes](https://github.com/fromsantanu/master-ml-dl/blob/main/Part2/p25.md)
+- **Lesson 26:** [Model Evaluation — Accuracy, Precision, Recall, F1](https://github.com/fromsantanu/master-ml-dl/blob/main/Part2/p26.md)
+- **Lesson 27:** [Regression Metrics — MAE, MSE, RMSE](https://github.com/fromsantanu/master-ml-dl/blob/main/Part2/p27.md)
+- **Lesson 28:** [Confusion Matrix](https://github.com/fromsantanu/master-ml-dl/blob/main/Part2/p28.md)
+- **Lesson 29:** [ROC-AUC & PR curves](https://github.com/fromsantanu/master-ml-dl/blob/main/Part2/p29.md)
+- **Lesson 30:** [Choosing the right algorithm](https://github.com/fromsantanu/master-ml-dl/blob/main/Part2/p30.md)
 
 ---
 
