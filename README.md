@@ -7,21 +7,21 @@
 
 ## **PART 1 — FOUNDATIONS OF MACHINE LEARNING (LESSONS 1–15)**
 
-- **Lesson 1:** [What is Machine Learning?](#)
-- **Lesson 2:** [Types of ML — Supervised, Unsupervised, Reinforcement](#)
-- **Lesson 3:** [What is Data? Rows, columns, features, labels](#)
-- **Lesson 4:** [Numerical vs Categorical vs Text vs Image data](#)
-- **Lesson 5:** [Basic Statistics for ML (simple explanation)](#)
-- **Lesson 6:** [Probability for ML — very easy introduction](#)
-- **Lesson 7:** [Data Collection & Sampling](#)
-- **Lesson 8:** [Data Cleaning — missing values, duplicates](#)
-- **Lesson 9:** [Scaling & Normalization](#)
-- **Lesson 10:** [Encoding categorical data](#)
-- **Lesson 11:** [Exploratory Data Analysis (EDA)](#)
-- **Lesson 12:** [Visualization basics (matplotlib, seaborn)](#)
-- **Lesson 13:** [Train/Test Split](#)
-- **Lesson 14:** [Bias vs Variance — easy examples](#)
-- **Lesson 15:** [Understanding ML pipeline (end-to-end flow)](#)
+- **Lesson 1:** [What is Machine Learning?](https://github.com/fromsantanu/master-ml-dl/blob/main/Part1/p01.md)
+- **Lesson 2:** [Types of ML — Supervised, Unsupervised, Reinforcement](https://github.com/fromsantanu/master-ml-dl/blob/main/Part1/p02.md)
+- **Lesson 3:** [What is Data? Rows, columns, features, labels](https://github.com/fromsantanu/master-ml-dl/blob/main/Part1/p03.md)
+- **Lesson 4:** [Numerical vs Categorical vs Text vs Image data](https://github.com/fromsantanu/master-ml-dl/blob/main/Part1/p04.md)
+- **Lesson 5:** [Basic Statistics for ML (simple explanation)](https://github.com/fromsantanu/master-ml-dl/blob/main/Part1/p05.md)
+- **Lesson 6:** [Probability for ML — very easy introduction](https://github.com/fromsantanu/master-ml-dl/blob/main/Part1/p06.md)
+- **Lesson 7:** [Data Collection & Sampling](https://github.com/fromsantanu/master-ml-dl/blob/main/Part1/p07.md)
+- **Lesson 8:** [Data Cleaning — missing values, duplicates](https://github.com/fromsantanu/master-ml-dl/blob/main/Part1/p08.md)
+- **Lesson 9:** [Scaling & Normalization](https://github.com/fromsantanu/master-ml-dl/blob/main/Part1/p09.md)
+- **Lesson 10:** [Encoding categorical data](https://github.com/fromsantanu/master-ml-dl/blob/main/Part1/p10.md)
+- **Lesson 11:** [Exploratory Data Analysis (EDA)](https://github.com/fromsantanu/master-ml-dl/blob/main/Part1/p11.md)
+- **Lesson 12:** [Visualization basics (matplotlib, seaborn)](https://github.com/fromsantanu/master-ml-dl/blob/main/Part1/p12.md)
+- **Lesson 13:** [Train/Test Split](https://github.com/fromsantanu/master-ml-dl/blob/main/Part1/p13.md)
+- **Lesson 14:** [Bias vs Variance — easy examples](https://github.com/fromsantanu/master-ml-dl/blob/main/Part1/p14.md)
+- **Lesson 15:** [Understanding ML pipeline (end-to-end flow)](https://github.com/fromsantanu/master-ml-dl/blob/main/Part1/p15.md)
 
 ---
 
