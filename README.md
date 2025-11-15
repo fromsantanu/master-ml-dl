@@ -8,33 +8,19 @@
 ## **PART 1 — FOUNDATIONS OF MACHINE LEARNING (LESSONS 1–15)**
 
 #### **Lesson 1:** What is Machine Learning?
-
 #### **Lesson 2:** Types of ML — Supervised, Unsupervised, Reinforcement
-
 #### **Lesson 3:** What is Data? Rows, columns, features, labels
-
 #### **Lesson 4:** Numerical vs Categorical vs Text vs Image data
-
 #### **Lesson 5:** Basic Statistics for ML (simple explanation)
-
 #### **Lesson 6:** Probability for ML — very easy introduction
-
 #### **Lesson 7:** Data Collection & Sampling
-
 #### **Lesson 8:** Data Cleaning — missing values, duplicates
-
 #### **Lesson 9:** Scaling & Normalization
-
 #### **Lesson 10:** Encoding categorical data
-
 #### **Lesson 11:** Exploratory Data Analysis (EDA)
-
 #### **Lesson 12:** Visualization basics (matplotlib, seaborn)
-
 #### **Lesson 13:** Train/Test Split
-
 #### **Lesson 14:** Bias vs Variance — easy examples
-
 #### **Lesson 15:** Understanding ML pipeline (end-to-end flow)
 
 ---
