@@ -59,16 +59,16 @@
 ---
 
 ## **PART 4 — PRACTICAL ML ENGINEERING (LESSONS 41–50)** [Click for Intro](https://github.com/fromsantanu/master-ml-dl/blob/main/Part4/README.md)
-- **Lesson 41:** [Feature Engineering — simple tricks](#) [[*Technical Explanation*](#)]
-- **Lesson 42:** [Feature Selection](#) [[*Technical Explanation*](#)]
-- **Lesson 43:** [Handling Imbalanced Data](#) [[*Technical Explanation*](#)]
-- **Lesson 44:** [Cross-validation](#) [[*Technical Explanation*](#)]
-- **Lesson 45:** [Hyperparameter Tuning](#) [[*Technical Explanation*](#)]
-- **Lesson 46:** [Overfitting & Underfitting](#) [[*Technical Explanation*](#)]
-- **Lesson 47:** [Regularization (L1, L2)](#) [[*Technical Explanation*](#)]
-- **Lesson 48:** [Creating complete ML pipeline](#) [[*Technical Explanation*](#)]
-- **Lesson 49:** [Model Interpretability — SHAP, LIME](#) [[*Technical Explanation*](#)]
-- **Lesson 50:** [ML Project: End-to-end case study](#) [[*Technical Explanation*](#)]
+- **Lesson 41:** [Feature Engineering — simple tricks](https://github.com/fromsantanu/master-ml-dl/blob/main/Part4/p41.md) [[*Technical Explanation*](https://github.com/fromsantanu/master-ml-dl/blob/main/Part4/t41.md)]
+- **Lesson 42:** [Feature Selection](https://github.com/fromsantanu/master-ml-dl/blob/main/Part4/p42.md) [[*Technical Explanation*](https://github.com/fromsantanu/master-ml-dl/blob/main/Part4/t42.md)]
+- **Lesson 43:** [Handling Imbalanced Data](https://github.com/fromsantanu/master-ml-dl/blob/main/Part4/p43.md) [[*Technical Explanation*](https://github.com/fromsantanu/master-ml-dl/blob/main/Part4/t43.md)]
+- **Lesson 44:** [Cross-validation](https://github.com/fromsantanu/master-ml-dl/blob/main/Part4/p44.md) [[*Technical Explanation*](https://github.com/fromsantanu/master-ml-dl/blob/main/Part4/t44.md)]
+- **Lesson 45:** [Hyperparameter Tuning](https://github.com/fromsantanu/master-ml-dl/blob/main/Part4/p45.md) [[*Technical Explanation*](https://github.com/fromsantanu/master-ml-dl/blob/main/Part4/t45.md)]
+- **Lesson 46:** [Overfitting & Underfitting](https://github.com/fromsantanu/master-ml-dl/blob/main/Part4/p46.md) [[*Technical Explanation*](https://github.com/fromsantanu/master-ml-dl/blob/main/Part4/t46.md)]
+- **Lesson 47:** [Regularization (L1, L2)](https://github.com/fromsantanu/master-ml-dl/blob/main/Part4/p47.md) [[*Technical Explanation*](https://github.com/fromsantanu/master-ml-dl/blob/main/Part4/t47.md)]
+- **Lesson 48:** [Creating complete ML pipeline](https://github.com/fromsantanu/master-ml-dl/blob/main/Part4/p48.md) [[*Technical Explanation*](https://github.com/fromsantanu/master-ml-dl/blob/main/Part4/t48.md)]
+- **Lesson 49:** [Model Interpretability — SHAP, LIME](https://github.com/fromsantanu/master-ml-dl/blob/main/Part4/p49.md) [[*Technical Explanation*](https://github.com/fromsantanu/master-ml-dl/blob/main/Part4/t49.md)]
+- **Lesson 50:** [ML Project: End-to-end case study](https://github.com/fromsantanu/master-ml-dl/blob/main/Part4/p50.md) [[*Technical Explanation*](https://github.com/fromsantanu/master-ml-dl/blob/main/Part4/t50.md)]
 
 ---
 
