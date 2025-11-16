@@ -5,7 +5,7 @@
 
 ---
 
-## **PART 1 — FOUNDATIONS OF MACHINE LEARNING (LESSONS 1–15)** [intro](#)
+## **PART 1 — FOUNDATIONS OF MACHINE LEARNING (LESSONS 1–15)** [Click for Intro](#)
 
 - **Lesson 1:** [What is Machine Learning?](https://github.com/fromsantanu/master-ml-dl/blob/main/Part1/p01.md)
 - **Lesson 2:** [Types of ML — Supervised, Unsupervised, Reinforcement](https://github.com/fromsantanu/master-ml-dl/blob/main/Part1/p02.md)
@@ -25,7 +25,7 @@
 
 ---
 
-## **PART 2 — SUPERVISED LEARNING (LESSONS 16–30)** [intro](#)
+## **PART 2 — SUPERVISED LEARNING (LESSONS 16–30)** [Click for Intro](#)
 - **Lesson 16:** [Linear Regression](https://github.com/fromsantanu/master-ml-dl/blob/main/Part2/p16.md)
 - **Lesson 17:** [Multiple Linear Regression](https://github.com/fromsantanu/master-ml-dl/blob/main/Part2/p17.md)
 - **Lesson 18:** [Logistic Regression (binary classification)](https://github.com/fromsantanu/master-ml-dl/blob/main/Part2/p18.md)
@@ -44,7 +44,7 @@
 
 ---
 
-## **PART 3 — UNSUPERVISED LEARNING (LESSONS 31–40)** [intro](#)
+## **PART 3 — UNSUPERVISED LEARNING (LESSONS 31–40)** [Click for Intro](#)
 - **Lesson 31:** [What is Unsupervised Learning](#)
 - **Lesson 32:** [Clustering vs Dimensionality Reduction](#)
 - **Lesson 33:** [K-Means Clustering](#)
@@ -58,7 +58,7 @@
 
 ---
 
-## **PART 4 — PRACTICAL ML ENGINEERING (LESSONS 41–50)** [intro](#)
+## **PART 4 — PRACTICAL ML ENGINEERING (LESSONS 41–50)** [Click for Intro](#)
 - **Lesson 41:** [Feature Engineering — simple tricks](#)
 - **Lesson 42:** [Feature Selection](#)
 - **Lesson 43:** [Handling Imbalanced Data](#)
@@ -72,7 +72,7 @@
 
 ---
 
-## **PART 5 — DEEP LEARNING FOUNDATIONS (LESSONS 51–55)** [intro](#)
+## **PART 5 — DEEP LEARNING FOUNDATIONS (LESSONS 51–55)** [Click for Intro](#)
 - **Lesson 51:** [What is Deep Learning?](#)
 - **Lesson 52:** [Neural Networks basics (neurons, weights, biases)](#)
 - **Lesson 53:** [Activation Functions (ReLU, Sigmoid, Softmax)](#)
@@ -81,7 +81,7 @@
 
 ---
 
-## **PART 6 — TRAINING NEURAL NETWORKS (LESSONS 56–62)** [intro](#)
+## **PART 6 — TRAINING NEURAL NETWORKS (LESSONS 56–62)** [Click for Intro](#)
 - **Lesson 56:** [Backpropagation (easy analogy)](#)
 - **Lesson 57:** [Building your first ANN](#)
 - **Lesson 58:** [Batch size, epochs, learning rate](#)
@@ -92,7 +92,7 @@
 
 ---
 
-## **PART 7 — COMPUTER VISION (LESSONS 63–70)** [intro](#)
+## **PART 7 — COMPUTER VISION (LESSONS 63–70)** [Click for Intro](#)
 - **Lesson 63:** [What is an Image? Pixel basics](#)
 - **Lesson 64:** [Convolution explained simply](#)
 - **Lesson 65:** [CNN Architecture](#)
@@ -103,7 +103,7 @@
 - **Lesson 70:** [Vision Transformers (ViT — simple intro)](#)
 
 
-## **PART 8 — NLP & SEQUENCE MODELS (LESSONS 71–80)** [intro](#)
+## **PART 8 — NLP & SEQUENCE MODELS (LESSONS 71–80)** [Click for Intro](#)
 - **Lesson 71:** [What is Natural Language Processing (NLP)?](#)
 - **Lesson 72:** [Text Preprocessing](#)
 - **Lesson 73:** [Bag-of-Words & TF-IDF](#)
