@@ -7,7 +7,7 @@
 
 ## **PART 1 — FOUNDATIONS OF MACHINE LEARNING (LESSONS 1–15)** [Click for Intro](https://github.com/fromsantanu/master-ml-dl/blob/main/Part1/README.md)
 
-- **Lesson 1:** [What is Machine Learning?](https://github.com/fromsantanu/master-ml-dl/blob/main/Part1/p01.md) [*Technical Explanation*](#)
+- **Lesson 1:** [What is Machine Learning?](https://github.com/fromsantanu/master-ml-dl/blob/main/Part1/p01.md) [*.. Technical Explanation ..*](#)
 - **Lesson 2:** [Types of ML — Supervised, Unsupervised, Reinforcement](https://github.com/fromsantanu/master-ml-dl/blob/main/Part1/p02.md) [Technical Explanation](#)
 - **Lesson 3:** [What is Data? Rows, columns, features, labels](https://github.com/fromsantanu/master-ml-dl/blob/main/Part1/p03.md) [Technical Explanation](#)
 - **Lesson 4:** [Numerical vs Categorical vs Text vs Image data](https://github.com/fromsantanu/master-ml-dl/blob/main/Part1/p04.md) [Technical Explanation](#)
