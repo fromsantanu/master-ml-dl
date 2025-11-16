@@ -72,48 +72,48 @@
 
 ---
 
-## **PART 5 — DEEP LEARNING FOUNDATIONS (LESSONS 51–55)** [Click for Intro](https://github.com/fromsantanu/master-ml-dl/blob/main/Part6/README.md)
-- **Lesson 51:** [What is Deep Learning?](#) [[*Technical Explanation*](#)]
-- **Lesson 52:** [Neural Networks basics (neurons, weights, biases)](#) [[*Technical Explanation*](#)]
-- **Lesson 53:** [Activation Functions (ReLU, Sigmoid, Softmax)](#) [[*Technical Explanation*](#)]
-- **Lesson 54:** [Loss Functions](#) [[*Technical Explanation*](#)]
-- **Lesson 55:** [Gradient Descent (very simple explanation)](#) [[*Technical Explanation*](#)]
+## **PART 5 — DEEP LEARNING FOUNDATIONS (LESSONS 51–55)** [Click for Intro](https://github.com/fromsantanu/master-ml-dl/blob/main/Part5/README.md)
+- **Lesson 51:** [What is Deep Learning?](https://github.com/fromsantanu/master-ml-dl/blob/main/Part5/p51.md) [[*Technical Explanation*](https://github.com/fromsantanu/master-ml-dl/blob/main/Part5/t51.md)]
+- **Lesson 52:** [Neural Networks basics (neurons, weights, biases)](https://github.com/fromsantanu/master-ml-dl/blob/main/Part5/p52.md) [[*Technical Explanation*](https://github.com/fromsantanu/master-ml-dl/blob/main/Part5/t52.md)]
+- **Lesson 53:** [Activation Functions (ReLU, Sigmoid, Softmax)](https://github.com/fromsantanu/master-ml-dl/blob/main/Part5/p53.md) [[*Technical Explanation*](https://github.com/fromsantanu/master-ml-dl/blob/main/Part5/t53.md)]
+- **Lesson 54:** [Loss Functions](https://github.com/fromsantanu/master-ml-dl/blob/main/Part5/p54.md) [[*Technical Explanation*](https://github.com/fromsantanu/master-ml-dl/blob/main/Part5/t54.md)]
+- **Lesson 55:** [Gradient Descent (very simple explanation)](https://github.com/fromsantanu/master-ml-dl/blob/main/Part5/p55.md) [[*Technical Explanation*](https://github.com/fromsantanu/master-ml-dl/blob/main/Part5/t55.md)]
 
 ---
 
-## **PART 6 — TRAINING NEURAL NETWORKS (LESSONS 56–62)** [Click for Intro](https://github.com/fromsantanu/master-ml-dl/blob/main/Part7/README.md)
-- **Lesson 56:** [Backpropagation (easy analogy)](#) [[*Technical Explanation*](#)]
-- **Lesson 57:** [Building your first ANN](#) [[*Technical Explanation*](#)]
-- **Lesson 58:** [Batch size, epochs, learning rate](#)[[*Technical Explanation*](#)]
-- **Lesson 59:** [Optimizers (SGD, Adam, RMSProp)](#) [[*Technical Explanation*](#)]
-- **Lesson 60:** [Regularization — Dropout, L1, L2](#) [[*Technical Explanation*](#)]
-- **Lesson 61:** [Batch Normalization](#) [[*Technical Explanation*](#)]
-- **Lesson 62:** [Training Tricks — early stopping, callbacks](#) [[*Technical Explanation*](#)]
+## **PART 6 — TRAINING NEURAL NETWORKS (LESSONS 56–62)** [Click for Intro](https://github.com/fromsantanu/master-ml-dl/blob/main/Part6/README.md)
+- **Lesson 56:** [Backpropagation (easy analogy)](https://github.com/fromsantanu/master-ml-dl/blob/main/Part6/p56.md) [[*Technical Explanation*](https://github.com/fromsantanu/master-ml-dl/blob/main/Part6/t56.md)]
+- **Lesson 57:** [Building your first ANN](https://github.com/fromsantanu/master-ml-dl/blob/main/Part6/p57.md) [[*Technical Explanation*](https://github.com/fromsantanu/master-ml-dl/blob/main/Part6/t57.md)]
+- **Lesson 58:** [Batch size, epochs, learning rate](https://github.com/fromsantanu/master-ml-dl/blob/main/Part6/p58.md)[[*Technical Explanation*](https://github.com/fromsantanu/master-ml-dl/blob/main/Part6/t58.md)]
+- **Lesson 59:** [Optimizers (SGD, Adam, RMSProp)](https://github.com/fromsantanu/master-ml-dl/blob/main/Part6/p59.md) [[*Technical Explanation*](https://github.com/fromsantanu/master-ml-dl/blob/main/Part6/t59.md)]
+- **Lesson 60:** [Regularization — Dropout, L1, L2](https://github.com/fromsantanu/master-ml-dl/blob/main/Part6/p60.md) [[*Technical Explanation*](https://github.com/fromsantanu/master-ml-dl/blob/main/Part6/t60.md)]
+- **Lesson 61:** [Batch Normalization](https://github.com/fromsantanu/master-ml-dl/blob/main/Part6/p61.md) [[*Technical Explanation*](https://github.com/fromsantanu/master-ml-dl/blob/main/Part6/t61.md)]
+- **Lesson 62:** [Training Tricks — early stopping, callbacks](https://github.com/fromsantanu/master-ml-dl/blob/main/Part6/p62.md) [[*Technical Explanation*](https://github.com/fromsantanu/master-ml-dl/blob/main/Part6/t62.md)]
 
 ---
 
-## **PART 7 — COMPUTER VISION (LESSONS 63–70)** [Click for Intro](https://github.com/fromsantanu/master-ml-dl/blob/main/Part8/README.md)
-- **Lesson 63:** [What is an Image? Pixel basics](#) [[*Technical Explanation*](#)]
-- **Lesson 64:** [Convolution explained simply](#) [[*Technical Explanation*](#)]
-- **Lesson 65:** [CNN Architecture](#) [[*Technical Explanation*](#)]
-- **Lesson 66:** [Building an Image Classifier](#) [[*Technical Explanation*](#)]
-- **Lesson 67:** [Data Augmentation](#) [[*Technical Explanation*](#)]
-- **Lesson 68:** [Transfer Learning (VGG, ResNet, MobileNet)](#) [[*Technical Explanation*](#)]
-- **Lesson 69:** [Object Detection basics](#) [[*Technical Explanation*](#)]
-- **Lesson 70:** [Vision Transformers (ViT — simple intro)](#) [[*Technical Explanation*](#)]
+## **PART 7 — COMPUTER VISION (LESSONS 63–70)** [Click for Intro](https://github.com/fromsantanu/master-ml-dl/blob/main/Part7/README.md)
+- **Lesson 63:** [What is an Image? Pixel basics](https://github.com/fromsantanu/master-ml-dl/blob/main/Part7/p63.md) [[*Technical Explanation*](https://github.com/fromsantanu/master-ml-dl/blob/main/Part7/t63.md)]
+- **Lesson 64:** [Convolution explained simply](https://github.com/fromsantanu/master-ml-dl/blob/main/Part7/p64.md) [[*Technical Explanation*](https://github.com/fromsantanu/master-ml-dl/blob/main/Part7/t64.md)]
+- **Lesson 65:** [CNN Architecture](https://github.com/fromsantanu/master-ml-dl/blob/main/Part7/p65.md) [[*Technical Explanation*](https://github.com/fromsantanu/master-ml-dl/blob/main/Part7/t65.md)]
+- **Lesson 66:** [Building an Image Classifier](https://github.com/fromsantanu/master-ml-dl/blob/main/Part7/p66.md) [[*Technical Explanation*](https://github.com/fromsantanu/master-ml-dl/blob/main/Part7/t66.md)]
+- **Lesson 67:** [Data Augmentation](https://github.com/fromsantanu/master-ml-dl/blob/main/Part7/p67.md) [[*Technical Explanation*](https://github.com/fromsantanu/master-ml-dl/blob/main/Part7/t67.md)]
+- **Lesson 68:** [Transfer Learning (VGG, ResNet, MobileNet)](https://github.com/fromsantanu/master-ml-dl/blob/main/Part7/p68.md) [[*Technical Explanation*](https://github.com/fromsantanu/master-ml-dl/blob/main/Part7/t68.md)]
+- **Lesson 69:** [Object Detection basics](https://github.com/fromsantanu/master-ml-dl/blob/main/Part7/p69.md) [[*Technical Explanation*](https://github.com/fromsantanu/master-ml-dl/blob/main/Part7/t69.md)]
+- **Lesson 70:** [Vision Transformers (ViT — simple intro)](https://github.com/fromsantanu/master-ml-dl/blob/main/Part7/p70.md) [[*Technical Explanation*](https://github.com/fromsantanu/master-ml-dl/blob/main/Part7/t70.md)]
 
 
-## **PART 8 — NLP & SEQUENCE MODELS (LESSONS 71–80)** [Click for Intro](#)
-- **Lesson 71:** [What is Natural Language Processing (NLP)?](#) [[*Technical Explanation*](#)]
-- **Lesson 72:** [Text Preprocessing](#) [[*Technical Explanation*](#)]
-- **Lesson 73:** [Bag-of-Words & TF-IDF](#) [[*Technical Explanation*](#)]
-- **Lesson 74:** [Word Embeddings](#) [[*Technical Explanation*](#)]
-- **Lesson 75:** [Recurrent Neural Networks (RNN)](#) [[*Technical Explanation*](#)]
-- **Lesson 76:** [LSTM Networks](#) [[*Technical Explanation*](#)]
-- **Lesson 77:** [GRU Networks](#) [[*Technical Explanation*](#)]
-- **Lesson 78:** [Attention Mechanism (Very Simple Explanation)](#) [[*Technical Explanation*](#)]
-- **Lesson 79:** [Transformers (BERT, GPT) — Beginner Explanation](#) [[*Technical Explanation*](#)]
-- **Lesson 80:** [NLP Project — Build a Text Classifier Using Transformers](#) [[*Technical Explanation*](#)]
+## **PART 8 — NLP & SEQUENCE MODELS (LESSONS 71–80)** [Click for Intro](https://github.com/fromsantanu/master-ml-dl/blob/main/Part8/README.md)
+- **Lesson 71:** [What is Natural Language Processing (NLP)?](https://github.com/fromsantanu/master-ml-dl/blob/main/Part8/p71.md) [[*Technical Explanation*](https://github.com/fromsantanu/master-ml-dl/blob/main/Part8/t71.md)]
+- **Lesson 72:** [Text Preprocessing](https://github.com/fromsantanu/master-ml-dl/blob/main/Part8/p72.md) [[*Technical Explanation*](https://github.com/fromsantanu/master-ml-dl/blob/main/Part8/t72.md)]
+- **Lesson 73:** [Bag-of-Words & TF-IDF](https://github.com/fromsantanu/master-ml-dl/blob/main/Part8/p73.md) [[*Technical Explanation*](https://github.com/fromsantanu/master-ml-dl/blob/main/Part8/t73.md)]
+- **Lesson 74:** [Word Embeddings](https://github.com/fromsantanu/master-ml-dl/blob/main/Part8/p74.md) [[*Technical Explanation*](https://github.com/fromsantanu/master-ml-dl/blob/main/Part8/t74.md)]
+- **Lesson 75:** [Recurrent Neural Networks (RNN)](https://github.com/fromsantanu/master-ml-dl/blob/main/Part8/p75.md) [[*Technical Explanation*](https://github.com/fromsantanu/master-ml-dl/blob/main/Part8/t75.md)]
+- **Lesson 76:** [LSTM Networks](https://github.com/fromsantanu/master-ml-dl/blob/main/Part8/p76.md) [[*Technical Explanation*](https://github.com/fromsantanu/master-ml-dl/blob/main/Part8/t76.md)]
+- **Lesson 77:** [GRU Networks](https://github.com/fromsantanu/master-ml-dl/blob/main/Part8/p77.md) [[*Technical Explanation*](https://github.com/fromsantanu/master-ml-dl/blob/main/Part8/t77.md)]
+- **Lesson 78:** [Attention Mechanism (Very Simple Explanation)](https://github.com/fromsantanu/master-ml-dl/blob/main/Part8/p78.md) [[*Technical Explanation*](https://github.com/fromsantanu/master-ml-dl/blob/main/Part8/t78.md)]
+- **Lesson 79:** [Transformers (BERT, GPT) — Beginner Explanation](https://github.com/fromsantanu/master-ml-dl/blob/main/Part8/p79.md) [[*Technical Explanation*](https://github.com/fromsantanu/master-ml-dl/blob/main/Part8/t79.md)]
+- **Lesson 80:** [NLP Project — Build a Text Classifier Using Transformers](https://github.com/fromsantanu/master-ml-dl/blob/main/Part8/p80.md) [[*Technical Explanation*](https://github.com/fromsantanu/master-ml-dl/blob/main/Part8/t80.md)]
 
 
 # 🎉 **This introductory course now includes :**
