@@ -26,35 +26,35 @@
 ---
 
 ## **PART 2 — SUPERVISED LEARNING (LESSONS 16–30)** [Click for Intro](https://github.com/fromsantanu/master-ml-dl/blob/main/Part2/README.md)
-- **Lesson 16:** [Linear Regression](https://github.com/fromsantanu/master-ml-dl/blob/main/Part2/p16.md) [[*Technical Explanation*](#)]
-- **Lesson 17:** [Multiple Linear Regression](https://github.com/fromsantanu/master-ml-dl/blob/main/Part2/p17.md) [[*Technical Explanation*](#)]
-- **Lesson 18:** [Logistic Regression (binary classification)](https://github.com/fromsantanu/master-ml-dl/blob/main/Part2/p18.md) [[*Technical Explanation*](#)]
-- **Lesson 19:** [Decision Trees](https://github.com/fromsantanu/master-ml-dl/blob/main/Part2/p19.md) [[*Technical Explanation*](#)]
-- **Lesson 20:** [Random Forest](https://github.com/fromsantanu/master-ml-dl/blob/main/Part2/p20.md) [[*Technical Explanation*](#)]
-- **Lesson 21:** [Gradient Boosting Machines (GBM)](https://github.com/fromsantanu/master-ml-dl/blob/main/Part2/p21.md) [[*Technical Explanation*](#)]
-- **Lesson 22:** [XGBoost (easy intro)](https://github.com/fromsantanu/master-ml-dl/blob/main/Part2/p22.md) [[*Technical Explanation*](#)]
-- **Lesson 23:** [Support Vector Machines (SVM)](https://github.com/fromsantanu/master-ml-dl/blob/main/Part2/p23.md) [[*Technical Explanation*](#)]
-- **Lesson 24:** [K-Nearest Neighbors (KNN)](https://github.com/fromsantanu/master-ml-dl/blob/main/Part2/p24.md) [[*Technical Explanation*](#)]
-- **Lesson 25:** [Naive Bayes](https://github.com/fromsantanu/master-ml-dl/blob/main/Part2/p25.md) [[*Technical Explanation*](#)]
-- **Lesson 26:** [Model Evaluation — Accuracy, Precision, Recall, F1](https://github.com/fromsantanu/master-ml-dl/blob/main/Part2/p26.md) [[*Technical Explanation*](#)]
-- **Lesson 27:** [Regression Metrics — MAE, MSE, RMSE](https://github.com/fromsantanu/master-ml-dl/blob/main/Part2/p27.md) [[*Technical Explanation*](#)]
-- **Lesson 28:** [Confusion Matrix](https://github.com/fromsantanu/master-ml-dl/blob/main/Part2/p28.md) [[*Technical Explanation*](#)]
-- **Lesson 29:** [ROC-AUC & PR curves](https://github.com/fromsantanu/master-ml-dl/blob/main/Part2/p29.md) [Technical Explanation](#)
-- **Lesson 30:** [Choosing the right algorithm](https://github.com/fromsantanu/master-ml-dl/blob/main/Part2/p30.md) [Technical Explanation](#)
+- **Lesson 16:** [Linear Regression](https://github.com/fromsantanu/master-ml-dl/blob/main/Part2/p16.md) [[*Technical Explanation*](https://github.com/fromsantanu/master-ml-dl/blob/main/Part2/t16.md)]
+- **Lesson 17:** [Multiple Linear Regression](https://github.com/fromsantanu/master-ml-dl/blob/main/Part2/p17.md) [[*Technical Explanation*](https://github.com/fromsantanu/master-ml-dl/blob/main/Part2/t17.md)]
+- **Lesson 18:** [Logistic Regression (binary classification)](https://github.com/fromsantanu/master-ml-dl/blob/main/Part2/p18.md) [[*Technical Explanation*](https://github.com/fromsantanu/master-ml-dl/blob/main/Part2/t18.md)]
+- **Lesson 19:** [Decision Trees](https://github.com/fromsantanu/master-ml-dl/blob/main/Part2/p19.md) [[*Technical Explanation*](https://github.com/fromsantanu/master-ml-dl/blob/main/Part2/t19.md)]
+- **Lesson 20:** [Random Forest](https://github.com/fromsantanu/master-ml-dl/blob/main/Part2/p20.md) [[*Technical Explanation*](https://github.com/fromsantanu/master-ml-dl/blob/main/Part2/t20.md)]
+- **Lesson 21:** [Gradient Boosting Machines (GBM)](https://github.com/fromsantanu/master-ml-dl/blob/main/Part2/p21.md) [[*Technical Explanation*](https://github.com/fromsantanu/master-ml-dl/blob/main/Part2/t21.md)]
+- **Lesson 22:** [XGBoost (easy intro)](https://github.com/fromsantanu/master-ml-dl/blob/main/Part2/p22.md) [[*Technical Explanation*](https://github.com/fromsantanu/master-ml-dl/blob/main/Part2/t22.md)]
+- **Lesson 23:** [Support Vector Machines (SVM)](https://github.com/fromsantanu/master-ml-dl/blob/main/Part2/p23.md) [[*Technical Explanation*](https://github.com/fromsantanu/master-ml-dl/blob/main/Part2/t23.md)]
+- **Lesson 24:** [K-Nearest Neighbors (KNN)](https://github.com/fromsantanu/master-ml-dl/blob/main/Part2/p24.md) [[*Technical Explanation*](https://github.com/fromsantanu/master-ml-dl/blob/main/Part2/t24.md)]
+- **Lesson 25:** [Naive Bayes](https://github.com/fromsantanu/master-ml-dl/blob/main/Part2/p25.md) [[*Technical Explanation*](https://github.com/fromsantanu/master-ml-dl/blob/main/Part2/t25.md)]
+- **Lesson 26:** [Model Evaluation — Accuracy, Precision, Recall, F1](https://github.com/fromsantanu/master-ml-dl/blob/main/Part2/p26.md) [[*Technical Explanation*](https://github.com/fromsantanu/master-ml-dl/blob/main/Part2/t26.md)]
+- **Lesson 27:** [Regression Metrics — MAE, MSE, RMSE](https://github.com/fromsantanu/master-ml-dl/blob/main/Part2/p27.md) [[*Technical Explanation*](https://github.com/fromsantanu/master-ml-dl/blob/main/Part2/t27.md)]
+- **Lesson 28:** [Confusion Matrix](https://github.com/fromsantanu/master-ml-dl/blob/main/Part2/p28.md) [[*Technical Explanation*](https://github.com/fromsantanu/master-ml-dl/blob/main/Part2/t28.md)]
+- **Lesson 29:** [ROC-AUC & PR curves](https://github.com/fromsantanu/master-ml-dl/blob/main/Part2/p29.md) [Technical Explanation](https://github.com/fromsantanu/master-ml-dl/blob/main/Part2/t29.md)
+- **Lesson 30:** [Choosing the right algorithm](https://github.com/fromsantanu/master-ml-dl/blob/main/Part2/p30.md) [Technical Explanation](https://github.com/fromsantanu/master-ml-dl/blob/main/Part2/t30.md)
 
 ---
 
 ## **PART 3 — UNSUPERVISED LEARNING (LESSONS 31–40)** [Click for Intro](https://github.com/fromsantanu/master-ml-dl/blob/main/Part3/README.md)
-- **Lesson 31:** [What is Unsupervised Learning](#) [[*Technical Explanation*](#)]
-- **Lesson 32:** [Clustering vs Dimensionality Reduction](#) [[*Technical Explanation*](#)]
-- **Lesson 33:** [K-Means Clustering](#) [[*Technical Explanation*](#)]
-- **Lesson 34:** [Hierarchical Clustering](#) [[*Technical Explanation*](#)]
-- **Lesson 35:** [DBSCAN](#) [Technical Explanation](#)
-- **Lesson 36:** [PCA (Principal Component Analysis)](#) [[*Technical Explanation*](#)]
-- **Lesson 37:** [t-SNE (simple explanation)](#) [[*Technical Explanation*](#)]
-- **Lesson 38:** [UMAP](#) [[*Technical Explanation*](#)]
-- **Lesson 39:** [Anomaly Detection](#) [[*Technical Explanation*](#)]
-- **Lesson 40:** [Association Rule Mining (market basket)](#) [[*Technical Explanation*](#)]
+- **Lesson 31:** [What is Unsupervised Learning](https://github.com/fromsantanu/master-ml-dl/blob/main/Part3/p31.md) [[*Technical Explanation*](https://github.com/fromsantanu/master-ml-dl/blob/main/Part3/t31.md)]
+- **Lesson 32:** [Clustering vs Dimensionality Reduction](https://github.com/fromsantanu/master-ml-dl/blob/main/Part3/p32.md) [[*Technical Explanation*](https://github.com/fromsantanu/master-ml-dl/blob/main/Part3/t32.md)]
+- **Lesson 33:** [K-Means Clustering](https://github.com/fromsantanu/master-ml-dl/blob/main/Part3/p33.md) [[*Technical Explanation*](https://github.com/fromsantanu/master-ml-dl/blob/main/Part3/t33.md)]
+- **Lesson 34:** [Hierarchical Clustering](https://github.com/fromsantanu/master-ml-dl/blob/main/Part3/p34.md) [[*Technical Explanation*](https://github.com/fromsantanu/master-ml-dl/blob/main/Part3/t34.md)]
+- **Lesson 35:** [DBSCAN](https://github.com/fromsantanu/master-ml-dl/blob/main/Part3/p35.md) [Technical Explanation](https://github.com/fromsantanu/master-ml-dl/blob/main/Part3/t35.md)
+- **Lesson 36:** [PCA (Principal Component Analysis)](https://github.com/fromsantanu/master-ml-dl/blob/main/Part3/p36.md) [[*Technical Explanation*](https://github.com/fromsantanu/master-ml-dl/blob/main/Part3/t36.md)]
+- **Lesson 37:** [t-SNE (simple explanation)](https://github.com/fromsantanu/master-ml-dl/blob/main/Part3/p37.md) [[*Technical Explanation*](https://github.com/fromsantanu/master-ml-dl/blob/main/Part3/t37.md)]
+- **Lesson 38:** [UMAP](https://github.com/fromsantanu/master-ml-dl/blob/main/Part3/p38.md) [[*Technical Explanation*](https://github.com/fromsantanu/master-ml-dl/blob/main/Part3/t38.md)]
+- **Lesson 39:** [Anomaly Detection](https://github.com/fromsantanu/master-ml-dl/blob/main/Part3/p39.md) [[*Technical Explanation*](https://github.com/fromsantanu/master-ml-dl/blob/main/Part3/t39.md)]
+- **Lesson 40:** [Association Rule Mining (market basket)](https://github.com/fromsantanu/master-ml-dl/blob/main/Part3/p40.md) [[*Technical Explanation*](https://github.com/fromsantanu/master-ml-dl/blob/main/Part3/t40.md)]
 
 ---
 
