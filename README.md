@@ -7,21 +7,21 @@
 
 ## **PART 1 — FOUNDATIONS OF MACHINE LEARNING (LESSONS 1–15)** [Click for Intro](https://github.com/fromsantanu/master-ml-dl/blob/main/Part1/README.md)
 
-- **Lesson 1:** [What is Machine Learning?](https://github.com/fromsantanu/master-ml-dl/blob/main/Part1/p01.md) [[*Technical Explanation*](#)]
-- **Lesson 2:** [Types of ML — Supervised, Unsupervised, Reinforcement](https://github.com/fromsantanu/master-ml-dl/blob/main/Part1/p02.md) [[*Technical Explanation*](#)]
-- **Lesson 3:** [What is Data? Rows, columns, features, labels](https://github.com/fromsantanu/master-ml-dl/blob/main/Part1/p03.md) [[*Technical Explanation*](#)]
-- **Lesson 4:** [Numerical vs Categorical vs Text vs Image data](https://github.com/fromsantanu/master-ml-dl/blob/main/Part1/p04.md) [[*Technical Explanation*](#)]
-- **Lesson 5:** [Basic Statistics for ML (simple explanation)](https://github.com/fromsantanu/master-ml-dl/blob/main/Part1/p05.md) [[*Technical Explanation*](#)]
-- **Lesson 6:** [Probability for ML — very easy introduction](https://github.com/fromsantanu/master-ml-dl/blob/main/Part1/p06.md) [[*Technical Explanation*](#)]
-- **Lesson 7:** [Data Collection & Sampling](https://github.com/fromsantanu/master-ml-dl/blob/main/Part1/p07.md) [[*Technical Explanation*](#)]
-- **Lesson 8:** [Data Cleaning — missing values, duplicates](https://github.com/fromsantanu/master-ml-dl/blob/main/Part1/p08.md) [[*Technical Explanation*](#)]
-- **Lesson 9:** [Scaling & Normalization](https://github.com/fromsantanu/master-ml-dl/blob/main/Part1/p09.md) [[*Technical Explanation*](#)]
-- **Lesson 10:** [Encoding categorical data](https://github.com/fromsantanu/master-ml-dl/blob/main/Part1/p10.md) [[*Technical Explanation*](#)]
-- **Lesson 11:** [Exploratory Data Analysis (EDA)](https://github.com/fromsantanu/master-ml-dl/blob/main/Part1/p11.md) [[*Technical Explanation*](#)]
-- **Lesson 12:** [Visualization basics (matplotlib, seaborn)](https://github.com/fromsantanu/master-ml-dl/blob/main/Part1/p12.md) [[*Technical Explanation*](#)]
-- **Lesson 13:** [Train/Test Split](https://github.com/fromsantanu/master-ml-dl/blob/main/Part1/p13.md) [[*Technical Explanation*](#)]
-- **Lesson 14:** [Bias vs Variance — easy examples](https://github.com/fromsantanu/master-ml-dl/blob/main/Part1/p14.md) [[*Technical Explanation*](#)]
-- **Lesson 15:** [Understanding ML pipeline (end-to-end flow)](https://github.com/fromsantanu/master-ml-dl/blob/main/Part1/p15.md) [[*Technical Explanation*](#)]
+- **Lesson 1:** [What is Machine Learning?](https://github.com/fromsantanu/master-ml-dl/blob/main/Part1/p01.md) [[*Technical Explanation*](https://github.com/fromsantanu/master-ml-dl/blob/main/Part1/t01.md)]
+- **Lesson 2:** [Types of ML — Supervised, Unsupervised, Reinforcement](https://github.com/fromsantanu/master-ml-dl/blob/main/Part1/p02.md) [[*Technical Explanation*](https://github.com/fromsantanu/master-ml-dl/blob/main/Part1/t02.md)]
+- **Lesson 3:** [What is Data? Rows, columns, features, labels](https://github.com/fromsantanu/master-ml-dl/blob/main/Part1/p03.md) [[*Technical Explanation*](https://github.com/fromsantanu/master-ml-dl/blob/main/Part1/t03.md)]
+- **Lesson 4:** [Numerical vs Categorical vs Text vs Image data](https://github.com/fromsantanu/master-ml-dl/blob/main/Part1/p04.md) [[*Technical Explanation*](https://github.com/fromsantanu/master-ml-dl/blob/main/Part1/t04.md)]
+- **Lesson 5:** [Basic Statistics for ML (simple explanation)](https://github.com/fromsantanu/master-ml-dl/blob/main/Part1/p05.md) [[*Technical Explanation*](https://github.com/fromsantanu/master-ml-dl/blob/main/Part1/t05.md)]
+- **Lesson 6:** [Probability for ML — very easy introduction](https://github.com/fromsantanu/master-ml-dl/blob/main/Part1/p06.md) [[*Technical Explanation*](https://github.com/fromsantanu/master-ml-dl/blob/main/Part1/t06.md)]
+- **Lesson 7:** [Data Collection & Sampling](https://github.com/fromsantanu/master-ml-dl/blob/main/Part1/p07.md) [[*Technical Explanation*](https://github.com/fromsantanu/master-ml-dl/blob/main/Part1/t07.md)]
+- **Lesson 8:** [Data Cleaning — missing values, duplicates](https://github.com/fromsantanu/master-ml-dl/blob/main/Part1/p08.md) [[*Technical Explanation*](https://github.com/fromsantanu/master-ml-dl/blob/main/Part1/t08.md)]
+- **Lesson 9:** [Scaling & Normalization](https://github.com/fromsantanu/master-ml-dl/blob/main/Part1/p09.md) [[*Technical Explanation*](https://github.com/fromsantanu/master-ml-dl/blob/main/Part1/t09.md)]
+- **Lesson 10:** [Encoding categorical data](https://github.com/fromsantanu/master-ml-dl/blob/main/Part1/p10.md) [[*Technical Explanation*](https://github.com/fromsantanu/master-ml-dl/blob/main/Part1/t10.md)]
+- **Lesson 11:** [Exploratory Data Analysis (EDA)](https://github.com/fromsantanu/master-ml-dl/blob/main/Part1/p11.md) [[*Technical Explanation*](https://github.com/fromsantanu/master-ml-dl/blob/main/Part1/t11.md)]
+- **Lesson 12:** [Visualization basics (matplotlib, seaborn)](https://github.com/fromsantanu/master-ml-dl/blob/main/Part1/p12.md) [[*Technical Explanation*](https://github.com/fromsantanu/master-ml-dl/blob/main/Part1/t12.md)]
+- **Lesson 13:** [Train/Test Split](https://github.com/fromsantanu/master-ml-dl/blob/main/Part1/p13.md) [[*Technical Explanation*](https://github.com/fromsantanu/master-ml-dl/blob/main/Part1/t13.md)]
+- **Lesson 14:** [Bias vs Variance — easy examples](https://github.com/fromsantanu/master-ml-dl/blob/main/Part1/p14.md) [[*Technical Explanation*](https://github.com/fromsantanu/master-ml-dl/blob/main/Part1/t14.md)]
+- **Lesson 15:** [Understanding ML pipeline (end-to-end flow)](https://github.com/fromsantanu/master-ml-dl/blob/main/Part1/p15.md) [[*Technical Explanation*](https://github.com/fromsantanu/master-ml-dl/blob/main/Part1/t15.md)]
 
 ---
 
